@@ -27,3 +27,9 @@ Your monitor should be detected properly here.
 # Here is what could be done by cutting red more aggressively
 
 https://github.com/Dayset/LessRedLUTCollection/assets/17880263/d4fc49f7-a9ad-4457-be78-cf3d483e2205
+
+# 50% fewer red peaks
+
+![50LessRedPeaks](https://github.com/Dayset/LessRedLUT/assets/17880263/7dce59cb-ca0e-42df-b282-9b0e5c26eab4)
+
+https://github.com/Dayset/LessRedLUT/blob/main/50LessRedPeaks.cube
