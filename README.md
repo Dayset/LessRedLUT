@@ -1,4 +1,4 @@
-# LessRedLUT
+# LessRedLUT (in progress..)
 A guide for fixing red color oversaturation issues in video games.
 
 1. Install the latest DWM LUT GUI 
