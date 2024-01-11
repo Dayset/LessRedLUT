@@ -1,4 +1,4 @@
-# LessRedLUT (in progress..)
+# LessRedLUT 
 A guide for fixing red color oversaturation issues in video games.
 
 1. Install the latest DWM LUT GUI 
@@ -33,3 +33,11 @@ https://github.com/Dayset/LessRedLUTCollection/assets/17880263/d4fc49f7-a9ad-445
 ![50LessRedPeaks](https://github.com/Dayset/LessRedLUT/assets/17880263/7dce59cb-ca0e-42df-b282-9b0e5c26eab4)
 
 https://github.com/Dayset/LessRedLUT/blob/main/50LessRedPeaks.cube
+
+ There are also -100% LUT files. 
+ You can try to find your perfect color correction LUT on the internet or create it with any image editing software.
+ It's even possible with OBS (Open Broadcaster Software). 
+
+Contacts: dayset@gmail.com
+
+Additional useful software: IWLTBAP LUT Generator, Photoshop
