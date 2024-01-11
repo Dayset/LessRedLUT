@@ -34,7 +34,10 @@ https://github.com/Dayset/LessRedLUTCollection/assets/17880263/d4fc49f7-a9ad-445
 
 https://github.com/Dayset/LessRedLUT/blob/main/50LessRedPeaks.cube
 
+# Vertigo2
 ![Vertigo2](https://github.com/Dayset/LessRedLUT/assets/17880263/086bb9e6-6abf-432f-901c-54eed63c57e0)
+
+https://github.com/Dayset/LessRedLUT/blob/main/Vertigo2.cube
 
  There are also -100% LUT files. 
  You can try to find your perfect color correction LUT on the internet or create it with any image editing software.
