@@ -7,13 +7,18 @@ https://github.com/ledoge/dwm_lut
 
 https://github.com/ledoge/dwm_lut/releases
 
+(v 3.8 )
+
 ![s](https://github.com/Dayset/LessRedLUTCollection/assets/17880263/b626645b-147e-446d-9281-f5672258ea77)
 
-Your monitor should be detected properly.
+Your monitor should be detected properly here.
 
-2. Get 3D CUBE LUT files (download)
-   
-3. Assign LUT file to SDR or HDR file (depends on your monitor), and Apply
+2. Get 3D CUBE LUT files (download or create you own)
+
+   https://raw.githubusercontent.com/Dayset/LessRedLUTCollection/fbf62776f9dbb34f8c7b746362ee24979d773001/DailyDriver25LessRedPeaks.cube 
+   Use 'Save as..' or navigate through GitHub page to download file.
+
+4. Assign LUT file to SDR or HDR file (depends on your monitor), and Apply
 
 # My "daily driver" with 25% less red peaks looks like this.
 
