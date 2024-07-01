@@ -16,7 +16,7 @@ Your monitor should be detected properly here.
 2. Get 3D CUBE LUT files (download or create your own)
 
    https://raw.githubusercontent.com/Dayset/LessRedLUTCollection/fbf62776f9dbb34f8c7b746362ee24979d773001/DailyDriver25LessRedPeaks.cube 
-   Use 'Save as..' or navigate through the GitHub page to download the file.
+   Use 'Save as..' or navigate the GitHub page to download the file.
 
 4. Assign the LUT file to an SDR or HDR file (depending on your monitor), and Apply
 
@@ -40,7 +40,7 @@ https://github.com/Dayset/LessRedLUT/blob/main/50LessRedPeaks.cube
 https://github.com/Dayset/LessRedLUT/blob/main/Vertigo2.cube
 
  There are also -100% LUT files. 
- You can try to find your perfect color correction LUT on the internet or create it with any image editing software.
+ You can find your perfect color correction LUT online or create it with any image editing software.
  It's even possible with OBS (Open Broadcaster Software).
  Overall it depends on the monitor/calibration and personal color preferences. 
 
